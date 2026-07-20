@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋 I'm Fady
 
-<!--
-**p1oto/p1oto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Snapshot
+- **Education:** Business Information Systems (BIS) Student
+- **Focus:** Cyber Security & Computer Networking
+- **Current Activities:** Beginner CTF player & aspiring Cyber Security Engineer
+- **Languages:** Arabic (100%), English (67%)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages & Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,bash" alt="Languages" />
+</p>
+
+---
+
+## Connect with Me
+- **Discord:** [dv_hexx](https://discord.com/users/dv_hexx)
+- **Instagram:** [@fh__i88](https://instagram.com/fh__i88)
+- **Telegram:** [@dv_xq](https://t.me/dv_xq)
+
+---
+
+## Contribution Graph
+<p align="center">
+  <img src="fady.svg" alt="Snake Animation" />
+</p>

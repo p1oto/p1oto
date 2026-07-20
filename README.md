@@ -17,8 +17,6 @@
 
 ## Connect with Me
 - **Discord:** [dv_hexx](https://discord.com/users/dv_hexx)
-- **Instagram:** [@fh__i88](https://instagram.com/fh__i88)
-- **Telegram:** [@dv_xq](https://t.me/dv_xq)
 
 ---
 

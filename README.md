@@ -22,5 +22,5 @@
 
 ## Contribution Graph
 <p align="center">
-  <img src="fady.svg" alt="Snake Animation" />
+  <img src="p1oto.svg" alt="Snake Animation" />
 </p>

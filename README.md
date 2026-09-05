@@ -3,7 +3,7 @@
 ## Snapshot
 - **Education:** Business Information Systems (BIS) Student
 - **Focus:** Cyber Security & Computer Networking
-- **Current Activities:** Beginner CTF player & aspiring Cyber Security Engineer
+- **Current Activities:** Studying Computer Networking, hands-on security labs & Junior Web Penetration Tester
 - **Languages:** Arabic (100%), English (67%)
 
 ---

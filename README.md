@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Fady
 
-## Snapshot
+## Snapshot 
 - **Education:** Business Information Systems (BIS) Student
 - **Focus:** Cyber Security & Computer Networking
 - **Current Activities:** Studying Computer Networking, hands-on security labs & Junior Web Penetration Tester

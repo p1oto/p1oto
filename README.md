@@ -86,8 +86,7 @@
 
   <br><br>
 
-  <img src="https://streak-stats.demolab.com/?user=p1oto&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=F85149&ring=39FF14&fire=F85149&currStreakLabel=39FF14" alt="Streak Stats" />
-
+  <img src="https://streak-stats.demolab.com/?user=p1oto&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=F85149&ring=39FF14&fire=F85149&currStreakLabel=39FF14&timezone=Africa/Cairo" alt="Streak Stats" />
   <br><br>
 
   <img src="https://raw.githubusercontent.com/p1oto/p1oto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />

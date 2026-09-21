@@ -32,7 +32,7 @@
 <hr>
 <br>
 
-<pre><code>[root@p1oto ~]# cat identity.txt</code></pre>
+<pre><code>[root@p1oto ~]# cat identity.txt</code></pre> 
 
 <div align="center">
 

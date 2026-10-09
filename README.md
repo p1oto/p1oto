@@ -55,7 +55,7 @@
 
   <br><br>
 
-  <img src="https://skillicons.dev/icons?i=python,bash,c,html,js,mysql&theme=dark" alt="Skills row 1" />
+  <img src="https://skillicons.dev/icons?i=python,bash,c,html,js,mysql,php&theme=dark" alt="Skills row 1" />
   <br>
   <img src="https://skillicons.dev/icons?i=git,github,linux,kali,vscode&theme=dark" alt="Skills row 2" />
 

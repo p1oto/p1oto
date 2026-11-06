@@ -22,8 +22,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://discord.com/users/p10to">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+    </a>
   </p>
 
 </div>
@@ -86,7 +86,8 @@
 
   <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com.vercel.app/?user=p1oto&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=F85149&ring=39FF14&fire=F85149&currStreakLabel=39FF14&timezone=Africa/Cairo&v=10" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=p1oto&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=F85149&ring=39FF14&fire=F85149&currStreakLabel=39FF14&timezone=Africa/Cairo" alt="Streak Stats" />
+
   <br><br>
 
   <img src="https://raw.githubusercontent.com/p1oto/p1oto/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -114,6 +115,5 @@
   </a>
 
   <br><br>
-
 
 </div>
